@@ -38,12 +38,13 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/xfadedx" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
+
   </a>
 </p>
 
 <p align="center">
-  ❤️ Thank you for supporting independent development.
+  ❤️ Thank you!
 </p>
 
 <hr>
@@ -129,5 +130,5 @@ No accounts. No setup. Just bind your keys and go.
 <br>
 
 <p align="center">
-  Made with ❤️ by xfadedx
+  Made with ❤️ by xFadedx
 </p>
