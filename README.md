@@ -1,17 +1,11 @@
 <h1 align="center">🎧 SpotiBind</h1>
-
 <p align="center">
   <strong>Works on Free & Premium Spotify</strong><br>
   Lightweight Windows desktop app for global Spotify hotkeys.
-</p>
-
 <p align="center">
   No need to alt-tab. Control playback from anywhere.
 </p>
-
-<br>
 <hr>
-
 <h2 align="center">📚 Navigation</h2>
 
 <p align="center">
