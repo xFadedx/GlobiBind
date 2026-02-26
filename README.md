@@ -1,11 +1,54 @@
+<a id="top"></a>
+
 <h1 align="center">🎧 SpotiBind</h1>
+
 <p align="center">
   <strong>Works on Free & Premium Spotify</strong><br>
   Lightweight Windows desktop app for global Spotify hotkeys.
-<p align="center">
-  No need to alt-tab. Control playback from anywhere.
 </p>
+
+<p align="center">
+  No need to alt-tab.<br>
+  Control playback from anywhere.
+</p>
+
+<br>
 <hr>
+
+<h1 align="center">⬇ Download</h1>
+
+<p align="center">
+  <a href="https://github.com/YOURUSERNAME/YOURREPO/releases/latest">
+    <img src="https://img.shields.io/badge/Download-SpotiBind-green?style=for-the-badge&logo=windows" />
+  </a>
+</p>
+
+<p align="center">
+  Windows • Free & Premium Supported
+</p>
+
+<br>
+<hr>
+
+<h2 align="center">☕ Support the Project</h2>
+
+<p align="center">
+  SpotiBind is free to use. If it saves you time, consider supporting development :)
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/xfadedx" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  ❤️ Thank you for supporting independent development.
+</p>
+
+<hr>
+<br>
+
 <h2 align="center">📚 Navigation</h2>
 
 <p align="center">
@@ -19,8 +62,6 @@
 
 <hr>
 <br>
-
-<!-- ================= FEATURES ================= -->
 
 <h1 id="features">✨ Features</h1>
 
@@ -39,14 +80,12 @@
 <hr>
 <br>
 
-<!-- ================= FREE VS PREMIUM ================= -->
-
 <h1 id="free-vs-premium">🆓 Free vs Premium</h1>
 
 <h3>Free Users</h3>
 <ul>
   <li>No login required</li>
-  <li>No Spotify Developer setup</li>
+  <li>No Spotify Developer setup needed</li>
   <li>All playback hotkeys work instantly</li>
 </ul>
 
@@ -60,8 +99,6 @@
 <hr>
 <br>
 
-<!-- ================= HOW IT WORKS ================= -->
-
 <h1 id="how-it-works">🖥️ How It Works</h1>
 
 <p>
@@ -74,8 +111,6 @@ Premium users can optionally connect via the Spotify Web API to enable enhanced 
 
 <hr>
 <br>
-
-<!-- ================= PREMIUM SETUP ================= -->
 
 <h1 id="premium-setup">🔧 Premium Setup (Optional)</h1>
 
@@ -114,8 +149,6 @@ Premium users can optionally connect via the Spotify Web API to enable enhanced 
 <hr>
 <br>
 
-<!-- ================= OPTIONAL FEATURES ================= -->
-
 <h1 id="optional-features">⚙️ Optional Features</h1>
 
 <ul>
@@ -127,8 +160,6 @@ Premium users can optionally connect via the Spotify Web API to enable enhanced 
 <hr>
 <br>
 
-<!-- ================= SECURITY ================= -->
-
 <h1 id="security">🛡️ Security</h1>
 
 <ul>
@@ -136,3 +167,10 @@ Premium users can optionally connect via the Spotify Web API to enable enhanced 
   <li>No Spotify passwords are stored</li>
   <li>Uses Spotify’s official OAuth flow</li>
 </ul>
+
+<hr>
+<br>
+
+<p align="center">
+  Made with ❤️ by xfadedx
+</p>
