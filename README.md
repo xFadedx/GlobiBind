@@ -1,34 +1,37 @@
-<h1 align="center">🎧 SpotiBind [Works on Free & Premium]</h1>
+<h1 align="center">🎧 SpotiBind</h1>
 
 <p align="center">
-  <strong>Lightweight Windows desktop app for controlling Spotify with fully customizable global keyboard shortcuts.</strong>
+  <strong>Works on Free & Premium Spotify</strong><br>
+  Lightweight Windows desktop app for global Spotify hotkeys.
 </p>
 
 <p align="center">
-  No need to alt-tab.<br>
-  Control playback from anywhere.
+  No need to alt-tab. Control playback from anywhere.
+</p>
+
+<br>
+<hr>
+
+<h2 align="center">📚 Navigation</h2>
+
+<p align="center">
+  <a href="#features"><strong>Features</strong></a> •
+  <a href="#free-vs-premium"><strong>Free vs Premium</strong></a> •
+  <a href="#how-it-works"><strong>How It Works</strong></a> •
+  <a href="#premium-setup"><strong>Premium Setup</strong></a> •
+  <a href="#optional-features"><strong>Optional Features</strong></a> •
+  <a href="#security"><strong>Security</strong></a>
 </p>
 
 <hr>
+<br>
 
-<h2 align="center">📚 Quick Navigation</h2>
+<!-- ================= FEATURES ================= -->
 
-<p align="center">
-  <a href="#features">✨ Features</a> •
-  <a href="#free-vs-premium">🆓 Free vs Premium</a> •
-  <a href="#how-it-works">🖥️ How It Works</a> •
-  <a href="#premium-setup-guide">🔧 Premium Setup</a> •
-  <a href="#optional-features">⚙️ Optional Features</a> •
-  <a href="#security-notes">🛡️ Security</a>
-</p>
-
-<hr>
-
-<h2 id="features">✨ Features</h2>
+<h1 id="features">✨ Features</h1>
 
 <ul>
-  <li>🔓 Works instantly on <strong>Free Spotify accounts</strong> (No login required)</li>
-  <li>🔐 Secure Spotify API authentication (Premium optional)</li>
+  <li>🔓 Works instantly on <strong>Free Spotify accounts</strong></li>
   <li>⌨️ Fully customizable global hotkeys</li>
   <li>▶ Play / Pause</li>
   <li>⏭ Next Track</li>
@@ -40,119 +43,102 @@
 </ul>
 
 <hr>
+<br>
 
-<h2 id="free-vs-premium">🆓 Free vs Premium</h2>
+<!-- ================= FREE VS PREMIUM ================= -->
 
-<p><strong>Free Spotify Users:</strong></p>
+<h1 id="free-vs-premium">🆓 Free vs Premium</h1>
+
+<h3>Free Users</h3>
 <ul>
   <li>No login required</li>
-  <li>No Spotify Developer setup needed</li>
+  <li>No Spotify Developer setup</li>
   <li>All playback hotkeys work instantly</li>
 </ul>
 
-<p><strong>Premium Spotify Users:</strong></p>
+<h3>Premium Users</h3>
 <ul>
-  <li>Optional Spotify login via Developer API</li>
+  <li>Optional Spotify Developer login</li>
   <li>🔔 Song toast notifications</li>
-  <li><small>Displays the currently playing song in the bottom right corner of your screen</small></li>
+  <li><em>Shows the currently playing song in the bottom right corner</em></li>
 </ul>
 
 <hr>
+<br>
 
-<h2 id="how-it-works">🖥️ How It Works</h2>
+<!-- ================= HOW IT WORKS ================= -->
+
+<h1 id="how-it-works">🖥️ How It Works</h1>
 
 <p>
-SpotiBind uses system-level media controls to interact directly with the Spotify desktop app.
+SpotiBind uses Windows system media controls to communicate directly with the Spotify desktop app.
 </p>
 
 <p>
-For Premium users, it can optionally connect to the Spotify Web API using your own developer credentials to enable enhanced features like song notifications.
+Premium users can optionally connect via the Spotify Web API to enable enhanced features like song notifications.
 </p>
 
 <hr>
+<br>
 
-<h2 id="premium-setup-guide">🔧 Premium Setup Guide (Optional)</h2>
+<!-- ================= PREMIUM SETUP ================= -->
+
+<h1 id="premium-setup">🔧 Premium Setup (Optional)</h1>
 
 <h3>1️⃣ Create a Spotify Developer App</h3>
 
 <ol>
   <li>
-    Go to:
-    👉 <a href="https://developer.spotify.com/dashboard" target="_blank">
-    https://developer.spotify.com/dashboard
+    Visit:
+    <a href="https://developer.spotify.com/dashboard" target="_blank">
+      Spotify Developer Dashboard
     </a>
   </li>
-  <li>Log in with your Spotify account.</li>
-  <li>Click <strong>"Create App"</strong></li>
+  <li>Click <strong>Create App</strong></li>
   <li>
-    Fill in:
-    <ul>
-      <li><strong>App Name:</strong> SpotiBind</li>
-      <li><strong>Description:</strong> Spotify hotkey controller</li>
-      <li><strong>Redirect URI:</strong><br>
-      <code>http://127.0.0.1:8888/callback</code></li>
-    </ul>
+    Add Redirect URI:
+    <br>
+    <code>http://127.0.0.1:8888/callback</code>
   </li>
-  <li>Save the app.</li>
 </ol>
 
-<hr>
-
-<h3>2️⃣ Get Your Credentials</h3>
+<h3>2️⃣ Copy Credentials</h3>
 
 <ul>
-  <li>Copy your <strong>Client ID</strong></li>
-  <li>Click <strong>"Show Client Secret"</strong> and copy it</li>
+  <li>Client ID</li>
+  <li>Client Secret</li>
+</ul>
+
+<h3>3️⃣ Connect in SpotiBind</h3>
+
+<ul>
+  <li>Open Settings</li>
+  <li>Enter credentials</li>
+  <li>Click <strong>Connect to Spotify</strong></li>
 </ul>
 
 <hr>
+<br>
 
-<h3>3️⃣ Configure SpotiBind</h3>
+<!-- ================= OPTIONAL FEATURES ================= -->
 
-<ol>
-  <li>Open <strong>SpotiBind → Settings</strong></li>
-  <li>Enter your Client ID and Client Secret</li>
-  <li>Click <strong>Connect to Spotify</strong></li>
-</ol>
-
-<p>
-Authorize access in your browser.
-</p>
-
-<p>
-Once authorized, SpotiBind will show <strong>Connected</strong>.
-</p>
-
-<hr>
-
-<h2>⌨️ Setting Up Hotkeys</h2>
-
-<ol>
-  <li>Click the hotkey field next to any action.</li>
-  <li>Press your desired key combination.</li>
-  <li><strong>Done!</strong></li>
-</ol>
-
-<p>
-Hotkeys are global — they work anywhere in Windows.
-</p>
-
-<hr>
-
-<h2 id="optional-features">⚙️ Optional Features</h2>
+<h1 id="optional-features">⚙️ Optional Features</h1>
 
 <ul>
   <li>🚀 Start with Windows</li>
   <li>🧩 Minimize to System Tray on Close</li>
-  <li>🔔 Song Toast Notifications <small>[Premium Feature]</small></li>
+  <li>🔔 Song Toast Notifications (Premium)</li>
 </ul>
 
 <hr>
+<br>
 
-<h2 id="security-notes">🛡️ Security Notes</h2>
+<!-- ================= SECURITY ================= -->
+
+<h1 id="security">🛡️ Security</h1>
 
 <ul>
-  <li>Your Client Secret stays on your machine.</li>
-  <li>SpotiBind does not store Spotify passwords.</li>
-  <li>Authentication uses Spotify's official OAuth flow.</li>
+  <li>Your Client Secret stays on your machine</li>
+  <li>No Spotify passwords are stored</li>
+  <li>Uses Spotify’s official OAuth flow</li>
 </ul>
