@@ -33,13 +33,17 @@
 <h2 align="center">☕ Support the Project</h2>
 
 <p align="center">
-  GlobiBind is free to use. If it saves you time, consider supporting development :)
+  GlobiBind is free to use. If it saves you time and stupid alt tabs, consider supporting development :)
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/xfadedx" target="_blank" rel="noopener noreferrer">
+  <a href="https://buymeacoffee.com/xfadedx">
     <img width="170" height="37" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
   </a>
+</p>
+
+<p align="center">
+  <sub>☕ Open in a new tab ^ (Ctrl + Click)</sub>
 </p>
 
   </a>
