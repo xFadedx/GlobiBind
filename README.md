@@ -82,11 +82,11 @@
 <h1 id="supported-platforms">🎵 Supported Platforms</h1>
 
 <ul>
-  <li>Spotify (Desktop)</li>
+  <li>Spotify (Desktop App) </li>
   <li>Spotify Web Player</li>
-  <li>YouTube</li>
-  <li>YouTube Music</li>
-  <li>Twitch</li>
+  <li>YouTube [Has to be a playlist]</li>
+  <li>YouTube Music [Has to be a playlist]</li>
+  <li>Twitch [Pause/Play]</li>
   <li>Most browser-based media players</li>
 </ul>
 
@@ -111,7 +111,7 @@ No accounts. No setup. Just bind your keys and go.
 <ul>
   <li>🚀 Start with Windows</li>
   <li>🧩 Minimize to System Tray on Close</li>
-  <li>🔔 Song / Media Toast Notifications (Bottom-right corner) [Spotify premium only] Other apps are being worked on :)</li>
+  <li>🔔 Song / Media Toast Notifications [Spotify premium only] Other apps are being worked on :)</li>
 </ul>
 
 <hr>
