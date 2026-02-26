@@ -1,18 +1,5 @@
 <h1 align="center">🎧 SpotiBind [Works on Free & Premium]</h1>
 
-<h2 align="center">📚 Quick Navigation</h2>
-
-<p align="center">
-  <a href="#features">✨ Features</a> •
-  <a href="#free-vs-premium">🆓 Free vs Premium</a> •
-  <a href="#how-it-works">🖥️ How It Works</a> •
-  <a href="#premium-setup-guide-optional">🔧 Premium Setup</a> •
-  <a href="#optional-features">⚙️ Optional Features</a> •
-  <a href="#security-notes">🛡️ Security</a>
-</p>
-
-<hr>
-
 <p align="center">
   <strong>Lightweight Windows desktop app for controlling Spotify with fully customizable global keyboard shortcuts.</strong>
 </p>
@@ -24,7 +11,20 @@
 
 <hr>
 
-<h2>✨ Features</h2>
+<h2 align="center">📚 Quick Navigation</h2>
+
+<p align="center">
+  <a href="#features">✨ Features</a> •
+  <a href="#free-vs-premium">🆓 Free vs Premium</a> •
+  <a href="#how-it-works">🖥️ How It Works</a> •
+  <a href="#premium-setup-guide">🔧 Premium Setup</a> •
+  <a href="#optional-features">⚙️ Optional Features</a> •
+  <a href="#security-notes">🛡️ Security</a>
+</p>
+
+<hr>
+
+<h2 id="features">✨ Features</h2>
 
 <ul>
   <li>🔓 Works instantly on <strong>Free Spotify accounts</strong> (No login required)</li>
@@ -41,7 +41,7 @@
 
 <hr>
 
-<h2>🆓 Free vs Premium</h2>
+<h2 id="free-vs-premium">🆓 Free vs Premium</h2>
 
 <p><strong>Free Spotify Users:</strong></p>
 <ul>
@@ -54,12 +54,12 @@
 <ul>
   <li>Optional Spotify login via Developer API</li>
   <li>🔔 Song toast notifications</li>
-  <li><small>[Displays the currently playing song in the bottom right corner of your screen]</small></li>
+  <li><small>Displays the currently playing song in the bottom right corner of your screen</small></li>
 </ul>
 
 <hr>
 
-<h2>🖥️ How It Works</h2>
+<h2 id="how-it-works">🖥️ How It Works</h2>
 
 <p>
 SpotiBind uses system-level media controls to interact directly with the Spotify desktop app.
@@ -71,19 +71,21 @@ For Premium users, it can optionally connect to the Spotify Web API using your o
 
 <hr>
 
-<h2>🔧 Premium Setup Guide (Optional)</h2>
+<h2 id="premium-setup-guide">🔧 Premium Setup Guide (Optional)</h2>
 
 <h3>1️⃣ Create a Spotify Developer App</h3>
 
 <ol>
-  <li>Go to:<br>
-  👉 <a href="https://developer.spotify.com/dashboard" target="_blank">
-  https://developer.spotify.com/dashboard
-  </a></li>
-  
+  <li>
+    Go to:
+    👉 <a href="https://developer.spotify.com/dashboard" target="_blank">
+    https://developer.spotify.com/dashboard
+    </a>
+  </li>
   <li>Log in with your Spotify account.</li>
   <li>Click <strong>"Create App"</strong></li>
-  <li>Fill in:
+  <li>
+    Fill in:
     <ul>
       <li><strong>App Name:</strong> SpotiBind</li>
       <li><strong>Description:</strong> Spotify hotkey controller</li>
@@ -137,7 +139,7 @@ Hotkeys are global — they work anywhere in Windows.
 
 <hr>
 
-<h2>⚙️ Optional Features</h2>
+<h2 id="optional-features">⚙️ Optional Features</h2>
 
 <ul>
   <li>🚀 Start with Windows</li>
@@ -147,7 +149,7 @@ Hotkeys are global — they work anywhere in Windows.
 
 <hr>
 
-<h2>🛡️ Security Notes</h2>
+<h2 id="security-notes">🛡️ Security Notes</h2>
 
 <ul>
   <li>Your Client Secret stays on your machine.</li>
