@@ -37,8 +37,10 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/xfadedx" target="_blank">
-    <img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
+  <a href="https://buymeacoffee.com/xfadedx" target="_blank" rel="noopener noreferrer">
+    <img width="170" height="37" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
+  </a>
+</p>
 
   </a>
 </p>
