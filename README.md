@@ -17,6 +17,8 @@
 
 <h1 align="center">⬇ Download</h1>
 
+</div>
+
 <p align="center">
   <a href="https://github.com/YOURUSERNAME/YOURREPO/releases/latest">
     <img src="https://img.shields.io/badge/Download-GlobiBind-green?style=for-the-badge&logo=windows" />
@@ -27,7 +29,6 @@
   Windows • Works with Desktop & Browser Media
 </p>
 
-<br>
 <hr>
 
 <h2 align="center">☕ Support the Project</h2>
@@ -54,20 +55,6 @@
 </p>
 
 <hr>
-<br>
-
-<h2 align="center">📚 Navigation</h2>
-
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> •
-  <a href="#supported-platforms"><strong>Supported Platforms</strong></a> •
-  <a href="#how-it-works"><strong>How It Works</strong></a> •
-  <a href="#optional-features"><strong>Optional Features</strong></a> •
-  <a href="#security"><strong>Security</strong></a>
-</p>
-
-<hr>
-<br>
 
 <h1 id="features">✨ Features</h1>
 
@@ -84,7 +71,6 @@
 </ul>
 
 <hr>
-<br>
 
 <h1 id="supported-platforms">🎵 Supported Platforms</h1>
 
@@ -98,7 +84,6 @@
 </ul>
 
 <hr>
-<br>
 
 <h1 id="how-it-works">🖥️ How It Works</h1>
 
@@ -111,7 +96,6 @@ No accounts. No setup. Just bind your keys and go.
 </p>
 
 <hr>
-<br>
 
 <h1 id="optional-features">⚙️ Optional Features</h1>
 
@@ -122,7 +106,6 @@ No accounts. No setup. Just bind your keys and go.
 </ul>
 
 <hr>
-<br>
 
 <h1 id="security">🛡️ Security</h1>
 
@@ -133,7 +116,6 @@ No accounts. No setup. Just bind your keys and go.
 </ul>
 
 <hr>
-<br>
 
 <p align="center">
   Made with ❤️ by xFadedx
