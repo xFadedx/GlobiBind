@@ -74,15 +74,11 @@ GlobiBind is free to use. If it saves you time and stupid alt tabs, consider sup
 
 <br>
 <h3> App: </h3>
-<img width="1153" height="1004" alt="AppPic" src="https://github.com/user-attachments/assets/67d8fa39-d643-4682-8914-fc0f50ff68c9" />
+<img width="700" height="1004" alt="AppPic" src="https://github.com/user-attachments/assets/67d8fa39-d643-4682-8914-fc0f50ff68c9" />
 
 <br>
 <h3> Active media toast: </h3>
 <img width="385" height="120" alt="ToastPic" src="https://github.com/user-attachments/assets/765d02b9-408e-4d73-9624-95fd4a0dd78e" />
-
-
-
-
 
 <hr width="60%">
 
