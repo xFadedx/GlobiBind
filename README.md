@@ -6,7 +6,7 @@
 
 <p>
 <strong>Universal Global Media Hotkeys for Windows</strong><br>
-Control Spotify, YouTube, Twitch, browser media, and more — from anywhere.
+Control Spotify, YouTube, Twitch, browser media, and more — from anywhere, any browser.
 </p>
 
 <p>
