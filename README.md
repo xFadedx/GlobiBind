@@ -154,6 +154,9 @@ On first launch, Windows may show a SmartScreen warning because GlobiBind is a n
 <p>
 Click <strong>More info</strong> → <strong>Run anyway</strong> to proceed.
 </p>
+<p>
+Any concerns about GlobiBind being a virus or keylogger are completely unfounded. Because the app listens for global hotkeys, Windows and some antivirus tools may flag it as a potential "keyboard logger" — this is a false positive. GlobiBind only detects the specific key combinations <em>you</em> define, and does absolutely nothing else with your keypresses. No data is collected, logged, or sent anywhere.
+</p>
 
 <hr width="60%">
 
