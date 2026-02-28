@@ -1,8 +1,7 @@
 <a id="top"></a>
-
 <div align="center">
 
-<h1><strong>🌍 GlobiBind</strong></h1>
+<h1>🌍 GlobiBind</h1>
 
 <p>
 <strong>Universal Global Media Hotkeys for Windows</strong><br>
@@ -16,7 +15,7 @@ Control playback across apps and browsers instantly.
 
 <hr width="60%">
 
-<h3><strong>⬇ Download</strong></h3>
+<h3>⬇ Download</h3>
 
 <p>
 <a href="https://github.com/xFadedx/GlobiBind/releases/latest">
@@ -24,105 +23,100 @@ Control playback across apps and browsers instantly.
 </a>
 </p>
 
-<p>
-Windows • Works with Desktop & Browser Media
-</p>
+<p>Windows • Works with Desktop & Browser Media</p>
 
 <hr width="60%">
 
-<h3><strong>☕ Support the Project</strong></h3>
+<h3>☕ Support the Project</h3>
 
 <p>
 GlobiBind is free to use. If it saves you time and stupid alt tabs, consider supporting development :)
 </p>
 
-<p>
 <a href="https://buymeacoffee.com/xfadedx" target="_blank">
 <img width="170" height="37" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
 </a>
-</p>
+
+<p><sub>☕ Tip: Ctrl + Click opens in a new tab</sub></p>
+<p>❤️ Thank you!</p>
+
+<hr width="60%">
+
+<h3>📚 Navigation</h3>
 
 <p>
-<sub>☕ Tip: Ctrl + Click opens in a new tab</sub>
-</p>
-
-<p>
-❤️ Thank you!
+<a href="#features">Features</a> •
+<a href="#screenshots">Screenshots</a> •
+<a href="#supported-platforms">Supported Platforms</a> •
+<a href="#how-it-works">How It Works</a> •
+<a href="#optional-features">Optional Features</a> •
+<a href="#security">Security</a> •
+<a href="#feedback">Feedback</a> •
+<a href="#smartscreen">SmartScreen</a>
 </p>
 
 <hr width="60%">
 
-<h3><strong>📚 Navigation</strong></h3>
+<h3 id="features">✨ Features</h3>
 
 <p>
-<a href="#features"><strong>Features</strong></a> •
-<a href="#supported-platforms"><strong>Supported Platforms</strong></a> •
-<a href="#how-it-works"><strong>How It Works</strong></a> •
-<a href="#optional-features"><strong>Optional Features</strong></a> •
-<a href="#security"><strong>Security</strong></a> •
-<a href="#feedback"><strong>Feedback</strong></a> •
-<a href="#smartscreen"><strong>SmartScreen</strong></a>
-</p>
-
-<hr width="60%">
-
-<h3 id="features"><strong>✨ Features</strong></h3>
-<br>
-
-<p>
-🌍 Universal media control (Desktop + Browser)<br>
+🌍 Universal media control — Desktop & Browser<br>
 ⌨️ Fully customizable global hotkeys<br>
-▶ Play / Pause<br>
-⏭ Next Track<br>
-⏮ Previous Track<br>
-🔊 Volume Up [System]<br>
-🔉 Volume Down [System]<br>
-🔔 Optional media notifications<br>
+▶️ Play / Pause &nbsp;|&nbsp; ⏭ Next &nbsp;|&nbsp; ⏮ Previous<br>
+🔊 Volume Up / Down (System)<br>
+🔔 Optional now-playing notifications<br>
 🔄 Works instantly — no login required
 </p>
 
 <hr width="60%">
 
-<h3 id="supported-platforms"><strong>🎵 Supported Platforms</strong></h3>
+<h3 id="screenshots">📸 Screenshots</h3>
+
 <br>
+<h3> App: </h3>
+<img width="1153" height="1004" alt="AppPic" src="https://github.com/user-attachments/assets/67d8fa39-d643-4682-8914-fc0f50ff68c9" />
+
+<br>
+<h3> Active media toast: </h3>
+<img width="385" height="120" alt="ToastPic" src="https://github.com/user-attachments/assets/765d02b9-408e-4d73-9624-95fd4a0dd78e" />
+
+
+
+
+
+<hr width="60%">
+
+<h3 id="supported-platforms">🎵 Supported Platforms</h3>
 
 <p>
-Spotify (Desktop App)<br>
-Spotify Web Player<br>
-YouTube (Playlist / Mix recommended)<br>
-YouTube Music (Playlist / Mix recommended)<br>
+Spotify (Desktop App & Web Player)<br>
+YouTube & YouTube Music (Playlist / Mix recommended)<br>
 Twitch (Play/Pause)<br>
 Most browser-based media players
 </p>
 
 <hr width="60%">
 
-<h3 id="how-it-works"><strong>🖥️ How It Works</strong></h3>
-<br>
+<h3 id="how-it-works">🖥️ How It Works</h3>
 
 <p>
-If media is playing in Spotify, your browser, or another supported app, GlobiBind detects it and sends playback commands instantly.
-</p>
-
-<p>
+If media is playing in Spotify, your browser, or another supported app, GlobiBind detects it and sends playback commands instantly.<br><br>
 No accounts. No setup. Just bind your keys and go.
 </p>
 
 <hr width="60%">
 
-<h3 id="optional-features"><strong>⚙️ Optional Features</strong></h3>
-<br>
+<h3 id="optional-features">⚙️ Optional Features</h3>
 
 <p>
 🚀 Start with Windows<br>
 🧩 Minimize to System Tray on Close<br>
-🔔 Song / Media Toast Notifications (Spotify Premium only — other apps WIP)
+🔔 Now Playing Notifications (Spotify Premium · other apps WIP)
 </p>
 
 <hr width="60%">
 
-<h3 id="security"><strong>🛡️ Security</strong></h3>
-<br>
+<h3 id="security">🛡️ Security</h3>
 
 <p>
 No account required<br>
@@ -132,36 +126,28 @@ No data collection
 
 <hr width="60%">
 
-<h3 id="feedback"><strong>💬 Feedback</strong></h3>
-<br>
+<h3 id="feedback">💬 Feedback</h3>
 
 <p>
 Found a bug or want a feature?<br>
-👉 <a href="https://github.com/xFadedx/GlobiBind/issues" target="_blank">
-<strong>Open an Issue on GitHub</strong>
-</a>
+👉 <a href="https://github.com/xFadedx/GlobiBind/issues" target="_blank"><strong>Open an Issue on GitHub</strong></a>
 </p>
 
 <hr width="60%">
 
-<h3 id="smartscreen"><strong>⚠️ Windows SmartScreen Notice</strong></h3>
-<br>
+<h3 id="smartscreen">⚠️ Windows SmartScreen Notice</h3>
 
 <p>
-On first launch, Windows may show a SmartScreen warning because GlobiBind is a new application and not yet digitally signed.
-</p>
-
-<p>
+On first launch, Windows may show a SmartScreen warning because GlobiBind is a new application and not yet digitally signed.<br><br>
 Click <strong>More info</strong> → <strong>Run anyway</strong> to proceed.
 </p>
+
 <p>
 Any concerns about GlobiBind being a virus or keylogger are completely unfounded. Because the app listens for global hotkeys, Windows and some antivirus tools may flag it as a potential "keyboard logger" — this is a false positive. GlobiBind only detects the specific key combinations <em>you</em> define, and does absolutely nothing else with your keypresses. No data is collected, logged, or sent anywhere.
 </p>
 
 <hr width="60%">
 
-<p>
-Made with ❤️ by xFadedx
-</p>
+<p>Made with ❤️ by xFadedx</p>
 
 </div>
