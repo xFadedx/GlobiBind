@@ -77,8 +77,8 @@
 <ul>
   <li>Spotify (Desktop App) </li>
   <li>Spotify Web Player</li>
-  <li>YouTube [Has to be a playlist]</li>
-  <li>YouTube Music [Has to be a playlist]</li>
+  <li>YouTube [Has to be a playlist / mix]</li>
+  <li>YouTube Music [Has to be a playlist / mix]</li>
   <li>Twitch [Pause/Play]</li>
   <li>Most browser-based media players</li>
 </ul>
