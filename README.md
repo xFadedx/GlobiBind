@@ -1,91 +1,104 @@
 <a id="top"></a>
 
-<h1 align="center">🌍 GlobiBind</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Universal Global Media Hotkeys for Windows</strong><br>
-  Control Spotify, YouTube, Twitch, browser media, and more — from anywhere.
+<h1><strong>🌍 GlobiBind</strong></h1>
+
+<p>
+<strong>Universal Global Media Hotkeys for Windows</strong><br>
+Control Spotify, YouTube, Twitch, browser media, and more — from anywhere.
 </p>
 
-<p align="center">
-  No need to alt-tab.<br>
-  Control playback across apps and browsers instantly.
+<p>
+No need to alt-tab.<br>
+Control playback across apps and browsers instantly.
 </p>
 
+<hr width="60%">
+
+<h3><strong>⬇ Download</strong></h3>
+
+<p>
+<a href="https://github.com/xFadedx/GlobiBind/releases/latest">
+<img src="https://img.shields.io/badge/Download-GlobiBind-green?style=for-the-badge&logo=windows" />
+</a>
+</p>
+
+<p>
+Windows • Works with Desktop & Browser Media
+</p>
+
+<hr width="60%">
+
+<h3><strong>☕ Support the Project</strong></h3>
+
+<p>
+GlobiBind is free to use. If it saves you time and stupid alt tabs, consider supporting development :)
+</p>
+
+<p>
+<a href="https://buymeacoffee.com/xfadedx" target="_blank">
+<img width="170" height="37" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
+</a>
+</p>
+
+<p>
+<sub>☕ Tip: Ctrl + Click opens in a new tab</sub>
+</p>
+
+<p>
+❤️ Thank you!
+</p>
+
+<hr width="60%">
+
+<h3><strong>📚 Navigation</strong></h3>
+
+<p>
+<a href="#features"><strong>Features</strong></a> •
+<a href="#supported-platforms"><strong>Supported Platforms</strong></a> •
+<a href="#how-it-works"><strong>How It Works</strong></a> •
+<a href="#optional-features"><strong>Optional Features</strong></a> •
+<a href="#security"><strong>Security</strong></a> •
+<a href="#feedback"><strong>Feedback</strong></a> •
+<a href="#smartscreen"><strong>SmartScreen</strong></a>
+</p>
+
+<hr width="60%">
+
+<h3 id="features"><strong>✨ Features</strong></h3>
 <br>
-<hr>
 
-<h1 align="center">⬇ Download</h1>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/YOURUSERNAME/YOURREPO/releases/latest">
-    <img src="https://img.shields.io/badge/Download-GlobiBind-green?style=for-the-badge&logo=windows" />
-  </a>
+<p>
+🌍 Universal media control (Desktop + Browser)<br>
+⌨️ Fully customizable global hotkeys<br>
+▶ Play / Pause<br>
+⏭ Next Track<br>
+⏮ Previous Track<br>
+🔊 Volume Up [System]<br>
+🔉 Volume Down [System]<br>
+🔔 Optional media notifications<br>
+🔄 Works instantly — no login required
 </p>
 
-<p align="center">
-  Windows • Works with Desktop & Browser Media
+<hr width="60%">
+
+<h3 id="supported-platforms"><strong>🎵 Supported Platforms</strong></h3>
+<br>
+
+<p>
+Spotify (Desktop App)<br>
+Spotify Web Player<br>
+YouTube (Playlist / Mix recommended)<br>
+YouTube Music (Playlist / Mix recommended)<br>
+Twitch (Play/Pause)<br>
+Most browser-based media players
 </p>
 
-<hr>
+<hr width="60%">
 
-<h2 align="center">☕ Support the Project</h2>
-
-<p align="center">
-  GlobiBind is free to use. If it saves you time and stupid alt tabs, consider supporting development :)
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/xfadedx">
-    <img width="170" height="37" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/d65041a3-4198-4a4c-bef6-3828c0c88ef5" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>☕ Open in a new tab ^ (Ctrl + Click)</sub>
-</p>
-
-  </a>
-</p>
-
-<p align="center">
-  ❤️ Thank you!
-</p>
-
-<hr>
-
-<h1 id="features">✨ Features</h1>
-
-<ul>
-  <li>🌍 Universal media control (Desktop + Browser)</li>
-  <li>⌨️ Fully customizable global hotkeys</li>
-  <li>▶ Play / Pause</li>
-  <li>⏭ Next Track</li>
-  <li>⏮ Previous Track</li>
-  <li>🔊 Volume Up [System]</li>
-  <li>🔉 Volume Down [System]</li>
-  <li>🔔 Optional media notifications</li>
-  <li>🔄 Works instantly — no login required</li>
-</ul>
-
-<hr>
-
-<h1 id="supported-platforms">🎵 Supported Platforms</h1>
-
-<ul>
-  <li>Spotify (Desktop App) </li>
-  <li>Spotify Web Player</li>
-  <li>YouTube [Has to be a playlist / mix]</li>
-  <li>YouTube Music [Has to be a playlist / mix]</li>
-  <li>Twitch [Pause/Play]</li>
-  <li>Most browser-based media players</li>
-</ul>
-
-<hr>
-
-<h1 id="how-it-works">🖥️ How It Works</h1>
+<h3 id="how-it-works"><strong>🖥️ How It Works</strong></h3>
+<br>
 
 <p>
 If media is playing in Spotify, your browser, or another supported app, GlobiBind detects it and sends playback commands instantly.
@@ -95,28 +108,57 @@ If media is playing in Spotify, your browser, or another supported app, GlobiBin
 No accounts. No setup. Just bind your keys and go.
 </p>
 
-<hr>
+<hr width="60%">
 
-<h1 id="optional-features">⚙️ Optional Features</h1>
+<h3 id="optional-features"><strong>⚙️ Optional Features</strong></h3>
+<br>
 
-<ul>
-  <li>🚀 Start with Windows</li>
-  <li>🧩 Minimize to System Tray on Close</li>
-  <li>🔔 Song / Media Toast Notifications [Spotify premium only] Other apps are being worked on :)</li>
-</ul>
-
-<hr>
-
-<h1 id="security">🛡️ Security</h1>
-
-<ul>
-  <li>No account required</li>
-  <li>No background tracking</li>
-  <li>No data collection</li>
-</ul>
-
-<hr>
-
-<p align="center">
-  Made with ❤️ by xFadedx
+<p>
+🚀 Start with Windows<br>
+🧩 Minimize to System Tray on Close<br>
+🔔 Song / Media Toast Notifications (Spotify Premium only — other apps WIP)
 </p>
+
+<hr width="60%">
+
+<h3 id="security"><strong>🛡️ Security</strong></h3>
+<br>
+
+<p>
+No account required<br>
+No background tracking<br>
+No data collection
+</p>
+
+<hr width="60%">
+
+<h3 id="feedback"><strong>💬 Feedback</strong></h3>
+<br>
+
+<p>
+Found a bug or want a feature?<br>
+👉 <a href="https://github.com/xFadedx/GlobiBind/issues" target="_blank">
+<strong>Open an Issue on GitHub</strong>
+</a>
+</p>
+
+<hr width="60%">
+
+<h3 id="smartscreen"><strong>⚠️ Windows SmartScreen Notice</strong></h3>
+<br>
+
+<p>
+On first launch, Windows may show a SmartScreen warning because GlobiBind is a new application and not yet digitally signed.
+</p>
+
+<p>
+Click <strong>More info</strong> → <strong>Run anyway</strong> to proceed.
+</p>
+
+<hr width="60%">
+
+<p>
+Made with ❤️ by xFadedx
+</p>
+
+</div>
