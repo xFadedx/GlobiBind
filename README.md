@@ -64,8 +64,8 @@
   <li>▶ Play / Pause</li>
   <li>⏭ Next Track</li>
   <li>⏮ Previous Track</li>
-  <li>🔊 Volume Up</li>
-  <li>🔉 Volume Down</li>
+  <li>🔊 Volume Up [System]</li>
+  <li>🔉 Volume Down [System]</li>
   <li>🔔 Optional media notifications</li>
   <li>🔄 Works instantly — no login required</li>
 </ul>
