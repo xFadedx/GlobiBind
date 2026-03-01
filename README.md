@@ -72,10 +72,13 @@ GlobiBind is free to use. If it saves you time and stupid alt tabs, consider sup
 
 <h3 id="screenshots">📸 Screenshots</h3>
 
-<img width="700" height="1004" alt="AppPic" src="https://github.com/user-attachments/assets/67d8fa39-d643-4682-8914-fc0f50ff68c9" />
+<img width="700" height="1002" alt="download2" src="https://github.com/user-attachments/assets/120b8f88-eb19-4d56-a874-cb7db94ab0a0" />
+
+
 
 <br>
-<img width="385" height="120" alt="ToastPic" src="https://github.com/user-attachments/assets/765d02b9-408e-4d73-9624-95fd4a0dd78e" />
+<img width="411" height="120" alt="download" src="https://github.com/user-attachments/assets/ef53efbc-7492-4c6b-a71d-bce7ce7a272e" />
+
 
 <hr width="60%">
 
